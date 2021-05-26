@@ -1,1 +1,3 @@
 # 3-Model-Datawarehouse
+
+KURANG YANG GALAXY BU FAR, DAH KEMALAMAN
